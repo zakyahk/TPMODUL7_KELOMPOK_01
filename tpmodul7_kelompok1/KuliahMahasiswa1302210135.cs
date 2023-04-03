@@ -9,7 +9,7 @@ public class KuliahMahasiswa1302210135
 
     public void ReadJSON()
     {
-        string text2 = File.ReadAllText("D:\\semester 4\\KPL\\code\\TPMODUL7_KELOMPOK_01\\tpmod7\\tpmodul7_kelompok1\\tpmodul7_kelompok1\\tp7_2_1302210135.json");
+        string text2 = File.ReadAllText("C:\\Users\\zaida\\OneDrive\\Documents\\TP KPL\\TPMODUL7_KELOMPOK_01\\tpmodul7_kelompok1\\tp7_2_1302210135.json");
 
         mataKuliah = JsonSerializer.Deserialize<ListCourse>(text2);
 

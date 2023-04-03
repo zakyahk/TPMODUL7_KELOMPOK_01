@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zaida\\OneDrive\\Documents\\TP KPL\\TPMODUL7_KELOMPOK_01\\tpmodul7_kelompok1\\tpmodul7_kelompok1.csproj",
-      "projectName": "tpmodul7_kelompok1",
-      "projectPath": "C:\\Users\\zaida\\OneDrive\\Documents\\TP KPL\\TPMODUL7_KELOMPOK_01\\tpmodul7_kelompok1\\tpmodul7_kelompok1.csproj",
+      "projectUniqueName": "C:\\Users\\zaida\\OneDrive\\Documents\\TP KPL\\TPMODUL7_KELOMPOK_01\\TP_MOD7_1302213072\\TP_MOD7_1302213072.csproj",
+      "projectName": "TP_MOD7_1302213072",
+      "projectPath": "C:\\Users\\zaida\\OneDrive\\Documents\\TP KPL\\TPMODUL7_KELOMPOK_01\\TP_MOD7_1302213072\\TP_MOD7_1302213072.csproj",
       "packagesPath": "C:\\Users\\zaida\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zaida\\OneDrive\\Documents\\TP KPL\\TPMODUL7_KELOMPOK_01\\tpmodul7_kelompok1\\obj\\",
+      "outputPath": "C:\\Users\\zaida\\OneDrive\\Documents\\TP KPL\\TPMODUL7_KELOMPOK_01\\TP_MOD7_1302213072\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\zaida\\AppData\\Roaming\\NuGet\\NuGet.Config",

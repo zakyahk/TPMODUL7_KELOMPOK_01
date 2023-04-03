@@ -10,7 +10,7 @@ public class DataMahasiswa1302210135
 
     }
 
-    string text = File.ReadAllText("D:\\semester 4\\KPL\\code\\TPMODUL7_KELOMPOK_01\\tpmod7\\tpmodul7_kelompok1\\tpmodul7_kelompok1\\tp7_1_1302210135.json");
+    string text = File.ReadAllText("C:\\Users\\zaida\\OneDrive\\Documents\\TP KPL\\TPMODUL7_KELOMPOK_01\\tpmodul7_kelompok1\\tp7_1_1302210135.json");
 
     public void readJson()
     {
